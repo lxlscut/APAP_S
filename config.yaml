@@ -1,0 +1,11 @@
+#小方格的数量
+MESH_WIDTH: 100
+MESH_HEIGHT: 100
+
+#APAP 的权重
+gama: 0.001
+sigma: 8.5
+
+
+
+
